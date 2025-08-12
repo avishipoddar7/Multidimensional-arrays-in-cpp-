@@ -1,5 +1,5 @@
 # Multidimensional-arrays-in-cpp-
- 🚀 Mastering Multidimensional Arrays in C++ 🚀
+🚀 Mastering Multidimensional Arrays in C++ 🚀
 Welcome to this repository! This project is a deep dive into the world of multidimensional arrays, using C++ to demonstrate fundamental concepts and operations. If you've ever wondered how to handle data in a grid-like structure, such as a spreadsheet, a game board, or an image, you're in the right place!
 
 🤔 What Are Multidimensional Arrays?
